@@ -1,0 +1,6 @@
+{
+  "name": "Life is Theater",
+  "description": "Album Tracklist Reveal Quiz & Crossword Game featuring 13 level mini-games and hidden Easter eggs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
